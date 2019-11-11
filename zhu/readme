@@ -1,0 +1,1 @@
+通过ROS，Client将控制命令发往小车。Server为节点order_receiver_node
